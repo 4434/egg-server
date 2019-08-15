@@ -101,6 +101,9 @@ html,body{
 	line-height: 25px;
 	margin-top: 20px;	
 }
+.modular-box .modular .box p{
+	margin-top: 20px;
+}
 
 .modular-box .modular .box .list{
 	display: flex;
@@ -162,6 +165,10 @@ html,body{
 .modular-box .modular1 .box{
 	margin-top: 20px;
 	line-height: 30px;
+}
+
+.modular-box .modular1 .box p{
+	margin-top: 20px;
 }
 
 .modular-box .modular1 .box .product{
