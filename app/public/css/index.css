@@ -16,13 +16,18 @@ html,body{
 
 .header-box{
 	min-width: 100%;
-	background: #eee;
+	background: #fff;
 }
 .header-box .header{
 	width: 1140px;
 	height: 80px;
 	line-height: 80px;
 	margin: 0 auto;
+}
+.header-box .header .logo{
+	width: 60px;
+	height: 60px;
+	vertical-align: middle;
 }
 .header-box .header a{
 	margin-left: 40px;
